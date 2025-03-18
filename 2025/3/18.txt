@@ -1,0 +1,4 @@
+Another warm day in the sun room - conversations on the indulgences of surface level items and
+experiences. When producing a large model - we should feed it smaller data set as not to exhaust
+the model. Refering to LLMs, the human experience should take notes on this. Where are our
+priorities? Do they produce longterm wealth - or larger redeuctions spikes than strives forward.
