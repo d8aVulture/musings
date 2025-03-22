@@ -1,0 +1,7 @@
+Have transitioned from bashing my brain against Apples Metal documentation and attempting to
+better understand graphics programming - though I will say the learning curve with Apples
+Metal was smaller compared to OpenGL. I have now moved my attention to a religous series, with pastels. 
+
+Sayr (Ocaml) - will also be worked on every other day. 
+
+
